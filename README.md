@@ -16,7 +16,8 @@ The template to follow when adding new writeups:
 
 
 ## Writeups
-
+### 2025:-
+- **[May 28, 2025 - $12,500]** [ VIRTUAL HOLES IN VIRTUAL WORLDS (METAVERSE BUG HUNT)](https://medium.com/@maxpasqua/virtual-holes-in-virtual-worlds-12-5k-metaverse-bug-hunt-7cfe841bc1cb) by [Max Pasqua](https://medium.com/@maxpasqua)
 ### 2024:- 
 - **[April 12 - $1000]** [ READ LOCKED WHATSAPP CHATS ON ANDROID AND IOS](https://medium.com/@xpl0itmE/read-locked-whatsapp-chats-on-android-and-ios-da1b39dd3ce2) by [Himanshu Bharti](https://x.com/xpl0itmE)
 - **[Feb 27 - $???]** [0-Click Account Takeover on Facebook](https://samiparyal.medium.com/0-click-account-takeover-on-facebook-e4120651e23e) by [Samip Aryal](https://twitter.com/samiparyal)
